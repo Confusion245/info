@@ -1,9 +1,9 @@
 <h1 align="center">
-  <b>🔥⃢⃟𝐂𝐨̽𝐧̽𝐟𝐮̽𝐌𝐨̽𝐝𝐬̽⃟⃢🔥</b>
+  <b>🎊𝐂𝐨𝐧𝐟𝐮𝐌𝐨𝐝𝐬🎊</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/883f837877a4804827cac.jpg" alt=D3KRISH">
+  <img src="https://i.ibb.co/R4TN0QH/PSX-20211209-174000.jpg" alt=TeamAlcatraz">
 </p>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D3KRISH&theme=dracula&count_private=true"></div>
